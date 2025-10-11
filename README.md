@@ -1,4 +1,4 @@
-****🏠 Housing Sales Analysis Dashboard****
+****🏠 Python-Housing Sales Analysis Dashboard****
 
 This project showcases a Housing Sales Data Analysis performed using Python and visualized with Power BI.
 It demonstrates how data analytics and visualization techniques can be combined to extract key insights from real estate datasets.
@@ -37,7 +37,8 @@ seaborn – Advanced statistical plotting
 Power BI – Interactive dashboard creation
 
 
-**📈 Dashboard Preview**
+****📈 Dashboard Preview****
+
 ![alt image](https://github.com/Daniyal07420/Python-Housing-sales-trend/blob/main/Python_housing_sale_analysis.png?raw=true)
 
 ****📁 Project Workflow*******
