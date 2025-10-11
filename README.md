@@ -1,14 +1,14 @@
-🏠 Housing Sales Analysis Dashboard
+****🏠 Housing Sales Analysis Dashboard****
 
 This project showcases a Housing Sales Data Analysis performed using Python and visualized with Power BI.
 It demonstrates how data analytics and visualization techniques can be combined to extract key insights from real estate datasets.
 
-📊 Project Overview
+**📊 Project Overview**
 
 The goal of this project is to analyze housing sales data to understand how various factors — such as the number of bedrooms, bathrooms, parking spaces, and proximity to main roads — affect property prices.
 The analysis was performed using Python (pandas, numpy, matplotlib, seaborn) and the final interactive dashboard was designed in Power BI.
 
-🧠 Key Insights
+**🧠 Key Insights**
 
 Houses with more bedrooms and bathrooms tend to have higher prices.
 
@@ -21,8 +21,8 @@ Preferred area properties are generally more expensive.
 The price trend by area shows certain spikes, possibly due to high-value properties in specific zones.
 
 
-🧰 Tools & Libraries Used
-🔹 Python Libraries
+**🧰 Tools & Libraries Used
+🔹 Python Libraries**
 
 pandas – Data cleaning and manipulation
 
@@ -32,48 +32,37 @@ matplotlib – Data visualization
 
 seaborn – Advanced statistical plotting
 
-🔹 Visualization Tool
+**🔹 Visualization Tool**
 
 Power BI – Interactive dashboard creation
 
 
-📈 Dashboard Preview
+**📈 Dashboard Preview**
 ![alt image](https://github.com/Daniyal07420/Python-Housing-sales-trend/blob/main/Python_housing_sale_analysis.png?raw=true)
 
-📁 Project Workflow
+****📁 Project Workflow*******
 
-Data Preparation
-
+**Data Preparation**
 Loaded housing dataset using pandas.
-
 Cleaned and preprocessed the data (handled missing values, formatted columns).
 
-Exploratory Data Analysis (EDA)
-
+**Exploratory Data Analysis (EDA)**
 Performed descriptive statistics and feature-wise visualizations using matplotlib and seaborn.
 
-Visualization in Power BI
-
+**Visualization in Power BI**
 Imported cleaned dataset into Power BI.
-
 Built visualizations such as:
-
 Bedrooms vs Bathrooms overview
-
 Price comparison by preferred area
-
 Impact of parking and main road
-
 Price trend by area
 
-Dashboard Design
-
+**Dashboard Design**
 Added KPIs: Total Area, Bedrooms, Bathrooms, Parking, and Price.
-
 Applied color themes and consistent formatting for professional presentation.
 
 
-🧾 KPIs Displayed
+**🧾 KPIs Displayed**
 Metric	 Description
 3M	     Full Area
 701	     Total Bathrooms
@@ -83,7 +72,7 @@ Metric	 Description
 3bn	     Total Price
 
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Rana Daniyal
 📧 daniyalinfo.com@gmail.com
